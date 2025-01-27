@@ -7,7 +7,8 @@ console.log(age);
 // "25abc" = NAN 
 
 
-let x = NaN;
+//let x = NaN;
+let x = "car"
 console.log(typeof x);
 //let isLoggedIn = 0
 
